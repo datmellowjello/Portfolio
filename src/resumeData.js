@@ -6,6 +6,7 @@ let resumeData = {
     "skypeid": "Your skypeid",
     "roleDescription": " Aspiring and determined web developer. I aim to make a difference through my skills and experience.",
     "socialLinks":[
+      
         {
           "name":"linkedin",
           "url":"https://www.linkedin.com/in/david-bridges-/",
