@@ -30,7 +30,7 @@ let resumeData = {
       
       {
         "UniversityName":"U of U",
-        "specialization":"Front-end Web Development",
+        "specialization":"Full Stack Coding Bootcamp",
       }
     ],
     "work":[
@@ -40,13 +40,7 @@ let resumeData = {
         "MonthOfLeaving":"May",
         "YearOfLeaving":"2018",
       },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
+      
     ],
     "skillsDescription":"Your skills here",
     "skills":[
