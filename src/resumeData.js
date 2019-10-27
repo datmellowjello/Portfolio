@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack Web Developer ",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": " Aspiring and determined web developer. I aim to make a difference through my skills and experience.",
+    "roleDescription": " Aspiring and determined. I aim to make a difference through my skills and experience.",
     "socialLinks":[
       
         {
